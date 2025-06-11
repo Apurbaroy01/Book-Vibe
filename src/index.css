@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+nav a.active{
+    border: 2px solid rgba(47, 197, 62, 0.68);
+    color: rgba(47, 197, 62, 0.68);
+    padding: 2px;
+    border-radius: 5px;
+    
+  
+}
