@@ -28,6 +28,7 @@ const BookDetails = () => {
         toast("this book added")
     }
     return (
+        
         <div className="hero bg-base-200 min-h-screen ">
             <div className="hero-content flex-col lg:flex-row gap-10">
                 <div>
